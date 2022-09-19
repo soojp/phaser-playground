@@ -1,0 +1,24 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soojp/phaser-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soojp/phaser-playground/issues"
+  },
+  "homepage": "https://github.com/soojp/phaser-playground#readme",
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "phaser": "^3.55.2"
+  }
+}
